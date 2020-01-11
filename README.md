@@ -1,2 +1,2 @@
-# pythonassignments
-Exhaustive python assignment practice. All my codes are available here for different kind of problems in python. 
+## Python Assignments
+**Exhaustive python assignment practice. Different kind of problems and cases studies are addressed in python.**
